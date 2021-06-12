@@ -18,3 +18,9 @@ A means of purchasing NFT's and other items at a much cheaper rate and access fo
 Because you will attract a lot of younger individuals to art and gaming.
 I'm not sure
 Because young adults love to have opportunities to make money in as many places as possible. The vast the ability, the more productive society is
+
+Addendum: 1.https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/how-do-you-measure-success-in-digital-five-metrics-for-ceos#
+          2.https://coinloan.io/article/the-complete-history-of-ripple-xrp/
+          3.https://steadyblockchain.com/how-does-ripple-use-blockchain-technology/
+          4.https://xrpl.org/history.html
+          5.https://www.crunchbase.com/organization/ripple-labs/company_financials
